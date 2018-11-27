@@ -1,0 +1,2 @@
+Defaults    !authenticate
+yay ALL=(ALL) ALL
